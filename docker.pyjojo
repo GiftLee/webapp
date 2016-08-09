@@ -1,0 +1,1 @@
+docker   run -itd  -v /etc/localtime:/etc/localtime --name=weapp tomcat8-jre7
